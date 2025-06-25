@@ -1,0 +1,35 @@
+{
+  "website_name": "Abdelrhman Ragheb -  Frontend Developer",
+  "introduction": "I provide web design and development services using the latest tools and technologies, including HTML, CSS, JavaScript, ReactJS, Bootstrap, and Tailwind. My focus is on delivering custom designs that reflect the brand identity of small to medium-sized businesses and entrepreneurs, with a commitment to meeting deadlines, ensuring top-quality standards, and creating innovative digital experiences that enhance online presence and support long-term project success",
+  "main_sections": [
+    "Introduction (about Matt, his skills, and design/development tools)",
+    "Recent Work (showcase with links to websites he contributed to)",
+    "Startup Projects (list of his own projects, categorized by status: ongoing, on hold, exited, acquired)",
+    "Testimonials (feedback from people he has worked with)",
+    "Contact (for potential collaborations)"
+  ],
+  "portfolio_and_experience": {
+    "design_philosophy": "I provide web design and development services using the latest tools and technologies, including HTML, CSS, JavaScript, ReactJS, Bootstrap, and Tailwind.",
+    "areas_of_work": [
+      "UX/UI",
+      "Web",
+      "Apps"
+    ],
+    "technical_skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "Sass",
+      "Git",
+      "ReactJS"
+    ],
+    "experience": {
+      "students_mentored": "2 years of Work",
+      "mentor_sessions_conducted": "Over 10 web that have been built",
+      "feedback_provided": "Over 100 feedbacks provided"
+    },
+    "collaborations": "Collaborated with companies in various industries, including residential renovation, accounting, blockchain, and civil engineering.",
+    "startup_projects_overview": "Designed and built his own startup projects, including platforms for logos, miniature painters, and AI-driven changelogs."
+  }
+}
